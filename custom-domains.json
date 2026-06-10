@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain_suffix": [
+                "sagernet.org",
+                "bitcointalk.org",
+                "bitaps.com",
+                "blockchain.com",
+                "bitcoin.org",
+                "bits.media",
+                "stratumprotocol.org",
+                "bitcoinwiki.org",
+                "microsoft.com",
+                "visualstudio.com",
+                "themoviedb.org",
+                "tmdb.org",
+                "nicehash.com",
+                "miningrigrentals.com",
+                "telegram.org",
+                "contestage.eu",
+                "option.ru",
+                "claude.com",
+                "claude.ai",
+                "ntlite.com",
+                "365sms.io",
+                "anthropic.com",
+                "cub.rip",
+                "cub.red",
+                "cub.watch"
+            ]
+        }
+    ]
+}
