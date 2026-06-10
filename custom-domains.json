@@ -47,7 +47,8 @@
                 "generativelanguage.googleapis.com",
                 "alkalimining-pa.googleapis.com",
                 "proactivebackend-pa.googleapis.com",
-                "lampa-shorts.com"
+                "lampa-shorts.com",
+                "rottentomatoes.com"
             ],
             "domain": [
                 "core.telegram.org",
