@@ -48,7 +48,8 @@
                 "alkalimining-pa.googleapis.com",
                 "proactivebackend-pa.googleapis.com",
                 "lampa-shorts.com",
-                "rottentomatoes.com"
+                "rottentomatoes.com",
+                "omdbapi.com"
             ],
             "domain": [
                 "core.telegram.org",
