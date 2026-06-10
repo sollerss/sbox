@@ -42,6 +42,11 @@
                 "cub.rip",
                 "cub.red",
                 "cub.watch",
+                "aistudio.google.com",
+                "gemini.google.com",
+                "generativelanguage.googleapis.com",
+                "alkalimining-pa.googleapis.com",
+                "proactivebackend-pa.googleapis.com",
                 "lampa-shorts.com"
             ],
             "domain": [
