@@ -13,7 +13,7 @@
                 "2001:b28:f23c::/48",
                 "2001:b28:f23d::/48",
                 "2001:b28:f23f::/48"
-                ],
+            ],
             "domain_suffix": [
                 "sagernet.org",
                 "bitcointalk.org",
