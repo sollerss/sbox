@@ -49,7 +49,8 @@
                 "proactivebackend-pa.googleapis.com",
                 "lampa-shorts.com",
                 "rottentomatoes.com",
-                "omdbapi.com"
+                "omdbapi.com",
+                "statsig.com"
             ],
             "domain": [
                 "core.telegram.org",
