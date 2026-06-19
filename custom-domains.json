@@ -53,7 +53,8 @@
                 "lampa-shorts.com",
                 "rottentomatoes.com",
                 "omdbapi.com",
-                "statsig.com"
+                "statsig.com",
+                "claudeusercontent.com"
             ],
             "domain": [
                 "core.telegram.org",
