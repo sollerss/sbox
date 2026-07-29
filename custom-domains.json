@@ -60,7 +60,22 @@
                 "oaistatic.com",
                 "oaiusercontent.com",
                 "dadata.ru",
-                "skladchik.org"
+                "skladchik.org",
+                "ntc.party",
+                "youtube.com",
+                "youtu.be",
+                "googlevideo.com",
+                "ytimg.com",
+                "ggpht.com",
+                "googleusercontent.com",
+                "googleapis.com",
+                "youtubei.googleapis.com",
+                "widevine.com",
+                "ampproject.org",
+                "gvt1.com",
+                "gvt2.com",
+                "gvt3.com",
+                "1e100.net"
             ],
             "domain": [
                 "core.telegram.org",
