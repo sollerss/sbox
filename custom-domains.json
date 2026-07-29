@@ -75,7 +75,18 @@
                 "gvt1.com",
                 "gvt2.com",
                 "gvt3.com",
-                "1e100.net"
+                "1e100.net",
+                "deepmind.com",
+                "deepmind.google",
+                "google.dev",
+                "generativeai.google",
+                "google.com",
+                "notebooklm.google",
+                "jules.google",
+                "labs.google",
+                "withgoogle.com",
+                "antigravity.google",
+                "antigravity-unleash.goog"
             ],
             "domain": [
                 "core.telegram.org",
